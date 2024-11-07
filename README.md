@@ -14,7 +14,8 @@ Archivo en github
 https://github.com/FabLabMeridaUser/Ayuda3DExtremadura/blob/main/TB_V13-1mm.stl 
 
 ## Pieza de agarre de churros para limpieza
-Pieza para crear rastrillos para el barro con churros de piscina.
+Pieza para crear rastrillos para el barro con churros de piscina por Jamison. 
+Explicación de la pieza: https://x.com/jamsito/status/1854288163876770258 
 
 ![image](https://github.com/user-attachments/assets/fb5b3d71-d4c7-462b-af13-f9d499012248)
 
