@@ -29,6 +29,9 @@ https://github.com/FabLabMeridaUser/Ayuda3DExtremadura/blob/main/adaptadorpaloch
 ## Muñequeras y Tobilleras
 Para evitar que el barro entre bajo ropa impermeable.
 
+![image](https://github.com/user-attachments/assets/1b063ec8-6c0e-4df8-b5c6-d53196891d66)
+
+
 Descarga el archivo original
 https://www.printables.com/model/1062229-pulsera-y-tobillera-dana-valencia/files
 
