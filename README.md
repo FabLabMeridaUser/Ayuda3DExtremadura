@@ -1,4 +1,4 @@
-# Ayuda3DExtremadura
+![image](https://github.com/user-attachments/assets/a9fd1383-7283-493e-aff6-3df89cb7c4f2)# Ayuda3DExtremadura
 Archivos y consejos para las distintas piezas que se necesitan en Valencia.
 
 ## Salvaorejas
@@ -13,19 +13,21 @@ https://www.thingiverse.com/thing:4268356/files
 Archivo en github
 https://github.com/FabLabMeridaUser/Ayuda3DExtremadura/blob/main/TB_V13-1mm.stl 
 
-## Pieza de agarre de churros para limpieza V2
+## Pieza de agarre de churros para limpieza V3
 Pieza para crear rastrillos para el barro con churros de piscina por Jamsito. Adaptada para imprimirse sin soportes.
+Nueva versión, utilizando bridas y una sola pieza en vez de 3 por churro y cortando el churro a la mitad. 
+Explicación del autor: 
+Diseño para acoplar un churro de piscina de 90-100mm de diámetro a un mango de escoba para quitar agua después de la Dana en Valencia. Hay distintas opciones de impresión, para mango de 22mm (mango típico de escoba) o 32 mm con un adptador para imprimir en un material semiflexible y poder utilizar cualquier mango. El modelo con pinchos necesita soportes, el resto no, hay uno optimizado para imprimir en vertical pudiendo aprovechar más la cama. Se sujeta todo con bridas, quedando un diseño muy robusto y resistente. También se puede poner un tornillo M4 para fijar más el mango.
+
 Explicación de la pieza: https://x.com/jamsito/status/1854288163876770258 
 
-![image](https://github.com/user-attachments/assets/79a8b424-e052-4fa1-a4dc-afc19b108fc8)
-
+![image](https://github.com/user-attachments/assets/2b3aa643-8a70-49a3-b188-f0d6e0882ab6)
 
 
 Descarga el archivo original
-https://makerworld.com/es/models/764397#profileId-702586
-
+https://www.thingiverse.com/thing:6826520 
 Archivo en el github: 
-(https://github.com/FabLabMeridaUser/Ayuda3DExtremadura/blob/main/adaptadorpalochurro-v2.stl)
+([https://github.com/FabLabMeridaUser/Ayuda3DExtremadura/blob/main/adaptadorpalochurro-v3.stl](https://github.com/FabLabMeridaUser/Ayuda3DExtremadura/blob/main/soporte-churro-22mm.stl))
 
 ## Muñequeras y Tobilleras
 Para evitar que el barro entre bajo ropa impermeable.
