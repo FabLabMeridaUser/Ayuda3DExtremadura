@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a9fd1383-7283-493e-aff6-3df89cb7c4f2)# Ayuda3DExtremadura
+
 Archivos y consejos para las distintas piezas que se necesitan en Valencia.
 
 ## Salvaorejas
@@ -22,6 +22,7 @@ Diseño para acoplar un churro de piscina de 90-100mm de diámetro a un mango de
 Explicación de la pieza: https://x.com/jamsito/status/1854288163876770258 
 
 ![image](https://github.com/user-attachments/assets/2b3aa643-8a70-49a3-b188-f0d6e0882ab6)
+![image](https://github.com/user-attachments/assets/a9fd1383-7283-493e-aff6-3df89cb7c4f2)
 
 
 Descarga el archivo original
